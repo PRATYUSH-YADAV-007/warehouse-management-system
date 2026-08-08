@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# Local History
+.history/
+
+# OS Files
+.DS_Store
+Thumbs.db
